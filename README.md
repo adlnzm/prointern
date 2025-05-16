@@ -76,7 +76,7 @@ Shows seasonality with peaks around December, likely due to holiday shopping beh
 
 #### 2. Days to Return Distribution
 
-![Days to Return](images/days_to_return.png)
+![Days to Return](images/days_to_return_distribution.png)
 Most returns occur within 0–100 days. Outliers suggest possible data quality issues.
 
 #### 3. Returns by User Location
