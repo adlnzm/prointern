@@ -91,12 +91,12 @@ An upward trend indicates high discounts may encourage more returns.
 
 #### 5. Product Category vs. Return Rate
 
-![Product Category Return Rate](images/product_category_return_rate.png)
+![Product Category Return Rate](images/return_rate_by_product_category.png)
 Certain pricing tiers (e.g., high-end products) exhibit higher average return rates.
 
 #### 6. Shipping Method vs. Return Quantity
 
-![Shipping Method Returns](images/shipping_method_return_quantity.png)
+![Shipping Method Returns](images/return_quantity_by_shipping_method.png)
 Standard shipping leads to more returns, possibly due to slower delivery or customer dissatisfaction.
 
 #### 7. Return Quantity by Product Category
